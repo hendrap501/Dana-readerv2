@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors - DANA Style -->
+    <color name="primary">#118EEA</color>
+    <color name="primary_dark">#0D6EBD</color>
+    <color name="accent">#00C853</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+
+    <!-- Background -->
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- Status -->
+    <color name="status_active">#118EEA</color>
+    <color name="status_inactive">#FF6B6B</color>
+    <color name="status_warning">#FFA726</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+
+    <!-- Info -->
+    <color name="info_bg">#E3F2FD</color>
+    <color name="info_text">#1565C0</color>
+
+    <!-- Divider -->
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Badge -->
+    <color name="badge_qris">#118EEA</color>
+    <color name="badge_test">#9C27B0</color>
+</resources>
